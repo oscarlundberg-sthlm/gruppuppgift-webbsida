@@ -10,3 +10,5 @@ Målgruppen känner sig ofta vilse, överväldigade och förvirrade av tech, it,
 Vi siktar därför på att förmedla känslor som "enkelt och kul", välkomnande, trygghet.
 
 - Respektive ansvarsområden finns i det här repots wiki.
+
+Testing
